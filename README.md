@@ -8,7 +8,7 @@ A preprint describing this work, "An Interpretable Deep Learning Model for Predi
 Graphical depiction of the neural network model.
 
 ## EpiList.txt.gz
-List of GISAID accession identity numbers for sequences used in the aformenetioned preprint.
+List of GISAID accession identity numbers for sequences used in the aforementioned preprint.
 
 ## Covid_Data_Creation.github.ipynb
 Software code used to preprocess sequence data.
