@@ -23,4 +23,4 @@ Basic notebook that includes the model used in the preprint, a training implemen
 Notebook used to predict the antibody evasiveness of Omicron from sequence based on experimental data for reduction in antibody neutralization for other variants. This work is described in our preprint available at https://www.medrxiv.org/content/10.1101/2021.12.26.21268414v1
 
 ## Corona_taxonomy.ipynb
-Notebook used to generate taxonomic classifications in preprint available at https://www.medrxiv.org/content/10.1101/2021.12.26.21268414v1
+Notebook used to generate taxonomic classifications in preprint available at https://www.medrxiv.org/content/10.1101/2021.12.26.21268414v1. The original and the preprocessed/filtered csv files with data are available here (corona_taxonomy_notpreprocessed.csv and corona_taxonomy_preprocessed.csv).
