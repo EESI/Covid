@@ -13,14 +13,11 @@ List of GISAID accession identity numbers for sequences used in the aforemention
 ## Covid_Data_Creation.github.ipynb
 Software code used to preprocess sequence data.
 
+## Corona_Transformer.ipynb
+This notebook includes the code used to generate classifications of clinical severity, along with other variations on the Transformer model and training tasks. This notebook can also be used to generate taxonomic classifications in preprint available at https://www.medrxiv.org/content/10.1101/2021.12.26.21268414v1. The original and the preprocessed/filtered csv files with data are available here (corona_taxonomy_notpreprocessed.csv and corona_taxonomy_preprocessed.csv).
+
 ## COVID_Disease_Severity_Projection.github.ipynb
 Software code used to predict the disease severity of Omicron, Delta, and Alpha variants as shown in the aforementioned preprint. Also includes code for the neural networks used in the paper.
 
-## Covid_Deep_Learning.ipynb
-Basic notebook that includes the model used in the preprint, a training implementation (used for regression analysis, which was not implemented in the preprint but shown in our earlier preprint available at https://www.medrxiv.org/content/10.1101/2021.12.26.21268414v1), and code for making predictions with the model, determining embeddings, and determining attention values.
-
 ## Covid_Predict_Omicron_Resistance.ipynb
 Notebook used to predict the antibody evasiveness of Omicron from sequence based on experimental data for reduction in antibody neutralization for other variants. This work is described in our preprint available at https://www.medrxiv.org/content/10.1101/2021.12.26.21268414v1
-
-## Corona_taxonomy.ipynb
-Notebook used to generate taxonomic classifications in preprint available at https://www.medrxiv.org/content/10.1101/2021.12.26.21268414v1. The original and the preprocessed/filtered csv files with data are available here (corona_taxonomy_notpreprocessed.csv and corona_taxonomy_preprocessed.csv).
